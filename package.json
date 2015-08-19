@@ -1,0 +1,11 @@
+{
+  "name": "three-vrcontrols",
+  "version": "1.0.0",
+  "description": "three.js VR controls",
+  "main": "VRControls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Van",
+  "license": "MIT"
+}
